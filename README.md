@@ -4,7 +4,7 @@ Repository of the paper "Do Language Models Plagiarize?", Proceedings of the ACM
 
 
 ## Training Corpus
-GPT-2's pre-training data is accessible via this [link](https://skylion007.github.io/OpenWebTextCorpus/). You can find all fine-tuning datasets in the ``finetuning_data`` folder.
+GPT-2's pre-training data is accessible via this [link](https://skylion007.github.io/OpenWebTextCorpus/). You can find all fine-tuning datasets in the ``finetuning_data`` folder in Zenodo.
 
 ## Automatic Plagiarism Detection
 **STEP 1. Finding Top-𝑛′ Candidate Documents**
