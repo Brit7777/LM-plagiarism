@@ -21,7 +21,7 @@ To extract plagiarism types and locations, go to the ``plagiarism_detection_tool
 ```
 python PAN2015_plagiarism_detection.py
 ```
-Make sure to replace these values () with your own file destinations in the source code prior to running. Great thanks to the original creator of this tool which is available at <https://www.gelbukh.com/plagiarism-detection/PAN-2015/>.
+Make sure to replace these values ``OUTPUT_DIRECTORY, FILE, INDEX`` with your own configurations in the source code prior to running. Great thanks to the original creator of this tool which is available at <https://www.gelbukh.com/plagiarism-detection/PAN-2015/>.
 
 ## Analysis
 You can refer to ``analysis.ipnyb`` to reproduce the reported plagiarism results. We uploaded all identified plagiarism cases in the ``plagiarism_cases`` folder.
