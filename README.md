@@ -24,7 +24,7 @@ python PAN2015_plagiarism_detection.py
 Make sure to replace these values ``OUTPUT_DIRECTORY, FILE, INDEX`` with your own configurations in the source code prior to running. Great thanks to the original creator of this tool which is available at <https://www.gelbukh.com/plagiarism-detection/PAN-2015/>.
 
 ## Analysis
-You can refer to ``analysis.ipnyb`` to reproduce the reported plagiarism results. We uploaded all identified plagiarism cases in the ``plagiarism_cases`` folder. Please note that ``source_id`` represents the index of machine-generated texts and ``susp_id`` represents the index of training samples. These numbers may not be reproducible when you run your own experiments because it depends on how training samples are indexed in Elasticsearch. 
+You can refer to ``analysis.ipnyb`` to reproduce the reported plagiarism results. We uploaded all identified plagiarism cases in the ``plagiarism_cases.zip`` file. Please note that ``source_id`` represents the index of machine-generated texts and ``susp_id`` represents the index of training samples. These numbers may not be reproducible when you run your own experiments because it depends on how training samples are indexed in Elasticsearch. 
 
 ---
 Please cite our paper with the following Bibtex:
