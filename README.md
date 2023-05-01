@@ -1,6 +1,6 @@
 # LM-plagiarism
 
-Repository of the paper "Do Language Models Plagiarize?", Proceedings of the ACM Web Conference 2023
+Repository of the paper "Do Language Models Plagiarize?", Proceedings of the ACM Web Conference 2023. A full paper can be found [here](https://dl.acm.org/doi/10.1145/3543507.3583199).
 
 **Due to a large size of data, we uploaded everything in [Zenodo](https://zenodo.org/record/7634243#.Y-p9ES-B0dh).**
 
